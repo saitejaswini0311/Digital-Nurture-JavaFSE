@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="JWT-handson(create authentication service that returns JWT)/src/main/java"/>
+	<classpathentry kind="src" path="JWT-handson(create authentication service that returns JWT)/src/test/java"/>
+	<classpathentry kind="src" path="Spring_rest_Handson(Load Country fromSpring Configuration XML)/src/main/java"/>
+	<classpathentry kind="src" path="spring-rest_handson(create a spring  web project using maven)/src/main/java"/>
+	<classpathentry kind="src" path="spring-rest_handson(create a spring  web project using maven)/src/test/java"/>
+	<classpathentry kind="src" path="spring-rest-handson(HelloWorldRESTfulWebService)/src/main/java"/>
+	<classpathentry kind="src" path="spring-rest-handson(REST COUNTRY WEB SERVICE)/src/main/java"/>
+	<classpathentry kind="src" path="spring-rest-handson(REST COUNTRY WEB SERVICE)/src/test/java"/>
+	<classpathentry kind="src" path="spring-rest-handson(REST – Get country based on country code)/src/main/java"/>
+	<classpathentry kind="src" path="spring-rest-handson(REST – Get country based on country code)/src/test/java"/>
+	<classpathentry kind="lib" path="spring-rest_handson(create a spring  web project using maven)/target/spring-learn-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="JWT-handson(create authentication service that returns JWT)/target/classes"/>
+</classpath>
