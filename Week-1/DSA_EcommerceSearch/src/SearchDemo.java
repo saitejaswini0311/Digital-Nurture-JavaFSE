@@ -1,6 +1,5 @@
 public class SearchDemo {
 
-    // Linear Search
     public static Product linearSearch(Product[] products, int id) {
 
         for (Product product : products) {
@@ -11,7 +10,6 @@ public class SearchDemo {
         return null;
     }
 
-    // Binary Search
     public static Product binarySearch(Product[] products, int id) {
 
         int low = 0;
